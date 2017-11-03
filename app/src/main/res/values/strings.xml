@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PemilOS16</string>
+    <string name="app_desc">Alat Pemungutan Suara Pemilihan Ketua OSIS\n<b>SMAN 16 GARUT</b>\nMasa Bakti\n2017 - 2018</string>
+    <string name="app_dev">Diselenggarakan atas kerjasama:\n<b>MPK SMAN 16 GARUT\nOSIS SMAN 16 GARUT\nVestibulum Conventus\nMCS Software House</b></string>
+    <string name="app_instr">Silahkan masukkan NISN Anda!</string>
+    <string name="app_instr_pilih">Sentuh Foto Kandidat yang Anda Pilih!</string>
+    <string name="app_btn">PILIH KANDIDAT</string>
+</resources>
